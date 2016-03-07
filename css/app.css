@@ -1,0 +1,8 @@
+.todo {margin: 20px auto;
+    width: 50%;
+    padding: 20px;
+    border: 1px solid #ccc;}
+.list{ margin:0px; list-style: none; padding:0px; }
+.list li{padding: 10px; border-bottom: 1px solid #ccc;}
+.list li .trash {float: right;}
+.todo .total {text-align: right; padding-top:10px;}
