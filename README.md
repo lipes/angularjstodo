@@ -1,8 +1,7 @@
 # angularjstodo
 Todo AngularJS
 
-Install
-npm install
+Rodando o Teste
 
-Teste
+npm install
 karma start karma.conf.js
