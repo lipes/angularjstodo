@@ -11,6 +11,8 @@ describe("App Teste", function(){
 		it("myTodoController Controller", function(){
 			controller("TodoController", {$scope: scope});
 			expect(scope.todos).toBeDefined();
+			expect(scope.addTodo).toBeDefined();
+			expect(scope.removeTodo).toBeDefined();
 			expect(scope.getTotalTodos).toBe(2);
 		});
 	});
