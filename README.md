@@ -1,7 +1,7 @@
-# Angularjs Todo List - Curricular
+### Angularjs Todo List - Curricular
 Todo AngularJS
 
-# Rodando o Teste
+### Rodando o Teste
 
 npm install
 
